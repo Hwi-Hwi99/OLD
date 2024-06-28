@@ -1,0 +1,14 @@
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfoInputs.cache
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfo.cs
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/ddhmac/Projects/Prototype/Prototype/bin/Debug/net6.0/Prototype
+/Users/ddhmac/Projects/Prototype/Prototype/bin/Debug/net6.0/Prototype.deps.json
+/Users/ddhmac/Projects/Prototype/Prototype/bin/Debug/net6.0/Prototype.runtimeconfig.json
+/Users/ddhmac/Projects/Prototype/Prototype/bin/Debug/net6.0/Prototype.dll
+/Users/ddhmac/Projects/Prototype/Prototype/bin/Debug/net6.0/Prototype.pdb
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.dll
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/refint/Prototype.dll
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.pdb
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/Prototype.genruntimeconfig.cache
+/Users/ddhmac/Projects/Prototype/Prototype/obj/Debug/net6.0/ref/Prototype.dll

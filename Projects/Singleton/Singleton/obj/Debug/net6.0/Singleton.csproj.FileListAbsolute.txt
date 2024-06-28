@@ -1,0 +1,14 @@
+/Users/ddhmac/Projects/LTWebNC/Singleton/bin/Debug/net6.0/Singleton
+/Users/ddhmac/Projects/LTWebNC/Singleton/bin/Debug/net6.0/Singleton.deps.json
+/Users/ddhmac/Projects/LTWebNC/Singleton/bin/Debug/net6.0/Singleton.runtimeconfig.json
+/Users/ddhmac/Projects/LTWebNC/Singleton/bin/Debug/net6.0/Singleton.dll
+/Users/ddhmac/Projects/LTWebNC/Singleton/bin/Debug/net6.0/Singleton.pdb
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfoInputs.cache
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfo.cs
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.dll
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/refint/Singleton.dll
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.pdb
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/Singleton.genruntimeconfig.cache
+/Users/ddhmac/Projects/LTWebNC/Singleton/obj/Debug/net6.0/ref/Singleton.dll

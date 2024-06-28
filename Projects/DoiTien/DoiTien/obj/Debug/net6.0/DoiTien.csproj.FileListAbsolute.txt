@@ -1,0 +1,14 @@
+/Users/ddhmac/Projects/DoiTien/DoiTien/bin/Debug/net6.0/DoiTien
+/Users/ddhmac/Projects/DoiTien/DoiTien/bin/Debug/net6.0/DoiTien.deps.json
+/Users/ddhmac/Projects/DoiTien/DoiTien/bin/Debug/net6.0/DoiTien.runtimeconfig.json
+/Users/ddhmac/Projects/DoiTien/DoiTien/bin/Debug/net6.0/DoiTien.dll
+/Users/ddhmac/Projects/DoiTien/DoiTien/bin/Debug/net6.0/DoiTien.pdb
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.AssemblyInfoInputs.cache
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.AssemblyInfo.cs
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.csproj.CoreCompileInputs.cache
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.dll
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/refint/DoiTien.dll
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.pdb
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/DoiTien.genruntimeconfig.cache
+/Users/ddhmac/Projects/DoiTien/DoiTien/obj/Debug/net6.0/ref/DoiTien.dll
