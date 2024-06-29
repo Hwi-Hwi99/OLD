@@ -12,7 +12,7 @@ public class ConnectionFactory
 {   
     public static Connection getConnection()
     {
-        Connection c = null;
+        Connection c = null;    
         try
         {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
