@@ -12,10 +12,6 @@ import java.io.File;
 import java.io.IOException;
 import utils.Consts;
 
-/**
- *
- * @author lllgabrielll
- */
 public class InitStage extends Stage {
 
     private Image imgStart;

@@ -12,6 +12,7 @@ public class Student implements Serializable
 {
     private long id;
     private String name;
+    private String uname;
     private Date dob;
     private String gender;
     private String mailId;
@@ -26,7 +27,7 @@ public class Student implements Serializable
     
     public Student() {}
     
-    public Student (String name, Date dob, String gender, String mailId, String mobileNo, 
+    public Student(String name, Date dob, String gender, String mailId, String mobileNo, 
                     String password, String rePassword, String program, String branch, int semester) 
     {
         this.name = name;
@@ -36,6 +37,22 @@ public class Student implements Serializable
         this.mobileNo = mobileNo;
         this.password = password;
         this.rePassword = rePassword;
+        this.program = program;
+        this.branch = branch;
+        this.semester = semester;
+    }
+    
+    public Student(long id, String name, Date dob, String gender, String mailId, String mobileNo, 
+                   /*String password, String rePassword*/ String program, String branch, int semester) 
+    {
+        this.id = id;
+        this.name = name;
+        this.dob = dob;
+        this.gender = gender;
+        this.mailId = mailId;
+        this.mobileNo = mobileNo;
+        //this.password = password;
+        //this.rePassword = rePassword;
         this.program = program;
         this.branch = branch;
         this.semester = semester;
@@ -67,6 +84,8 @@ public class Student implements Serializable
                + branch + ", semester = " + semester + ", addDate = " + addDate + '}';
     }
 
+    public String getUname() { return this.uname; }
+    public void setUname(String uname) { this.uname = uname; }
     public long getId() { return this.id; }
     public void setId(long id) { this.id = id; }
     public String getName() { return this.name; }
